@@ -1,8 +1,27 @@
 @font-face {
-  font-family: "RobotoRegular";
+  font-family: "Jokerman Regular";
   font-style: normal;
   font-weight: normal;
-  src: url("../fonts/RobotoRegular/RobotoRegular.eot?#iefix") format("embedded-opentype"), 
-  url("../fonts/RobotoRegular/RobotoRegular.woff") format("woff"),
-  url("../fonts/RobotoRegular/RobotoRegular.ttf") format("truetype"); 
-  }
+  src: url("../fonts/RobotoRegular/Jokerman Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "segoeprint_bold";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/RobotoRegular/segoeprint_bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "segoeprint";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/RobotoRegular/segoeprint.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Stylus BT";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/RobotoRegular/Stylus BT.ttf") format("truetype");
+}
