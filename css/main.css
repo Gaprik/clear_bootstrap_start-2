@@ -1,0 +1,10 @@
+.bigbox {
+    height: 579px;
+    background-image: url(../img/2-layers.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bottombox {
+    width: 100%;
+}
