@@ -1,6 +1,115 @@
-.bigbox {
+.mob {
+    width: 212px;
+    height: 58px;
+    color: #5094f2;
+    font-family: Jokerman;
+    font-size: 60px;
+    font-weight: 400;
+    text-align: left;
+    letter-spacing: 0.6px;
+    margin-left: 2%;
+    vertical-align: middle;
+}
+
+.menu {
+    width: 448px;
+    color: #6c6c6c;
+    font-family: Jokerman;
+    font-size: 25px;
+    font-weight: 400;
+    text-align: left;
+    letter-spacing: 0.25px;
+    margin-top: 3%;
+}
+
+.lump {
+    width: 415px;
+    color: #ffffff;
+    font-family: "Stylus BT";
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 44.42px;
+    text-align: left;
+}
+
+.texlum {
+    font-family: "Stylus BT";
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 44.42px;
+    text-align: left;
+    margin: 0;
+}
+
+.texlump {
+    font-family: "Stylus BT";
+    font-size: 24px;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    font-weight: 400;
+    line-height: 44.42px;
+    text-align: left;
+}
+
+a {
+    display: block;
+    background-color: blue;
+    color: white;
+    width: 213px;
+    height: 41px;
+    color: #ffffff;
+    font-family: "Stylus BT";
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 44.42px;
+}
+
+
+
+
+
+.texfhot .bigbox {
     height: 579px;
     background-image: url(../img/2-layers.png);
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.firsbox {
+    width: 40%;
+    margin-left: 18%;
+    padding: 3%;
+    position: relative;
+}
+
+.carousel-caption {
+    position: absolute;
+    top: 20%;
+    bottom: 0;
+    right: 0;
+    left: 45%;
+    width: 40%;
+    padding-left: 10%;
+}
+
+.carousel-control-prev-icon {
+    background-image: url(../img/MicrosoftTeams-image2.png);
+}
+
+.carousel-control-next-icon {
+    background-image: url(../img/MicrosoftTeams-image3.png);
+}
+
+.carousel-indicators li {
+    display: none;
+}
+
+a {
+    display: block;
+    background-color: blue;
+    color: white;
+    margin-left: 20%;
+    margin-right: 0;
+    width: 60%;
 }
